@@ -1,1 +1,1 @@
-this is the new text file to check the pull request.whether the recently added file changes made in githubrepository is reflecting in local git repository.
+this is the new text file to check the pull request.whether the recently ADDED CHANGES IN THIS TEXT FILE (githubrepository) is reflecting in local git repository.
